@@ -6,7 +6,7 @@ Juan David Oviedo Rodriguez Código estudiante: 2249689
 
 Paola Isabel Tangarife Mazo código 2249416
 
-Mayerly Moya codigo Salinas código 2249765
+Mayerly Moya Salinas código 2249765
 
 Darley Idarraga Londoño código 2249688
 
