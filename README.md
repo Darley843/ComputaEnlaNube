@@ -1,3 +1,12 @@
+PRACTICA 1. CONFIGURACION ENTORNO MAQUINA VIRTUAL.
+ESTUDIANTES.
+Juan David Oviedo Rodriguez CÃ³digo estudiante:Â 2249689
+Paola Isabel Tangarife Mazo cÃ³digoÂ 2249416
+Mayerly Moya codigo Salinas cÃ³digo 2249765
+Darley Idarraga LondoÃ±o cÃ³digo 2249688
+
+
+
 # configuracion subir y descargar archivos en github con vagrant
 
 # README - ConfiguraciÃ³n y Uso de Vagrant en PowerShell
@@ -152,28 +161,28 @@ Este documento proporciona una guÃ­a bÃ¡sica para la gestiÃ³n de entornos virtua
 
 
 
-í¾¯ **Lista de algunos cÃ³digos Ãºtiles**:
+ï¿½ï¿½ï¿½ **Lista de algunos cÃ³digos Ãºtiles**:
 | Emoji | CÃ³digo |
 |--------|------------|
-| íº€ | `:rocket:` |
-| í¸ƒ | `:smiley:` |
+| ï¿½ï¿½ï¿½ | `:rocket:` |
+| ï¿½ï¿½ï¿½ | `:smiley:` |
 | âœ… | `:white_check_mark:` |
-| í´¥ | `:fire:` |
-| í³¦ | `:package:` |
-| í³Œ | `:pushpin:` |
-| í±¤ | `:bust_in_silhouette:` |
+| ï¿½ï¿½ï¿½ | `:fire:` |
+| ï¿½ï¿½ï¿½ | `:package:` |
+| ï¿½ï¿½ï¿½ | `:pushpin:` |
+| ï¿½ï¿½ï¿½ | `:bust_in_silhouette:` |
 
-í´ **Puedes ver la lista completa de emojis de GitHub aquÃ­**:  
-í±‰ [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)
+ï¿½ï¿½ï¿½ **Puedes ver la lista completa de emojis de GitHub aquÃ­**:  
+ï¿½ï¿½ï¿½ [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)
 
 ---
 
-### í´¹ **OpciÃ³n 2: Copiar y pegar emojis directamente**
+### ï¿½ï¿½ï¿½ **OpciÃ³n 2: Copiar y pegar emojis directamente**
 TambiÃ©n puedes copiar y pegar emojis desde cualquier pÃ¡gina o teclado emoji.
 
-í³Œ **Ejemplo en `README.md`**:
+ï¿½ï¿½ï¿½ **Ejemplo en `README.md`**:
 ```md
-# íº€ CompuNube
+# ï¿½ï¿½ï¿½ CompuNube
 
-í±‹ Â¡Bienvenido a CompuNube! AquÃ­ trabajamos con **GitHub, Vagrant y computaciÃ³n en la nube** â˜ï¸.
+ï¿½ï¿½ï¿½ Â¡Bienvenido a CompuNube! AquÃ­ trabajamos con **GitHub, Vagrant y computaciÃ³n en la nube** â˜ï¸.
 
